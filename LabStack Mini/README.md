@@ -3,13 +3,13 @@ This section of the repository contains 3D models of items that mount directly t
 
 ## Brackets
 
-| **File**                                                         | **Description**                                                            |
-| :--------------------------------------------------------------- | :------------------------------------------------------------------------- |
-| `DXFs/2U Mini Lasercut Bracket.dxf`                              | A 2D design for a bracket to be laser-cut instead of 3D-printed            |
-| `STLs/2U Mini 4x LabStack Module M3 Nut Bracket.stl`             | Full-width 3D printable bracket that uses standard M3 hex nuts (4/module)  |
-| `STLs/2U Mini 4x LabStack Module M3x3x4.6mm Heatset Bracket.stl` | Full-width 3D printable bracket that uses heatset inserts instead of nuts  |
-| `STLs/2U Mini 4x LabStack Module M3x4x5mm Heatset Bracket.stl`   | Full-width 3D printable bracket that uses heatset inserts instead of nuts  |
-| `STLs/2U Mini Split 4x LabStack Module Bracket x2.stl`           | Half-Width 3D printable bracket for smaller printers. Requires 2x. (M3 heatsets) |
+| **File**                                                         | **Description**                                                                               |
+| :--------------------------------------------------------------- | :-------------------------------------------------------------------------                    |
+| `DXFs/2U Mini Lasercut Bracket.dxf`                              | A 2D design for a bracket to be laser-cut instead of 3D-printed.                              |
+| `STLs/2U Mini 4x LabStack Module M3 Nut Bracket.stl`             | Full-width 3D printable bracket that uses standard M3 hex nuts (4/module).                    |
+| `STLs/2U Mini 4x LabStack Module M3x3x4.6mm Heatset Bracket.stl` | Full-width 3D printable bracket that uses M3x3x4.6 heatset inserts instead of nuts.           |
+| `STLs/2U Mini 4x LabStack Module M3x4x5mm Heatset Bracket.stl`   | Full-width 3D printable bracket that uses M3x4x5 heatset inserts instead of nuts.             |
+| `STLs/2U Mini Split 4x LabStack Module Bracket x2.stl`           | Half-Width 3D printable bracket for smaller printers. Requires 2x printed parts and heatsets. |
 
 ## Accessories
 
