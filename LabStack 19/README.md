@@ -1,0 +1,2 @@
+# Labstack 19
+This section of the repository contains models of items that mount directly to a **full-width** (19") rack. Currently, the only item inside is `DXFs/2U 19 Lasercut Bracket.dxf`, which is a 2D design for a bracket to be laser- or plasma-cut. It is 2U tall and can hold a total of **eight** "LabStack Modules" (see the [Modules](https://github.com/JaredC01/LabStack/tree/main/LabStack%20Modules) section in the directory above this one).
