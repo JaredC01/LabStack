@@ -9,7 +9,7 @@ This section of the repository contains 3D models of items that mount directly t
 | `STLs/2U Mini 4x LabStack Module M3 Nut Bracket.stl`             | Full-width 3D printable bracket that uses standard M3 hex nuts (4/module)  |
 | `STLs/2U Mini 4x LabStack Module M3x3x4.6mm Heatset Bracket.stl` | Full-width 3D printable bracket that uses heatset inserts instead of nuts  |
 | `STLs/2U Mini 4x LabStack Module M3x4x5mm Heatset Bracket.stl`   | Full-width 3D printable bracket that uses heatset inserts instead of nuts  |
-| `STLs/2U Mini Split 4x LabStack Module Bracket x2.stl`           | Half-Width 3D printable bracket, for TWO (not four) modules. (M3 heatsets) |
+| `STLs/2U Mini Split 4x LabStack Module Bracket x2.stl`           | Half-Width 3D printable bracket for smaller printers. Requires 2x. (M3 heatsets) |
 
 ## Accessories
 
