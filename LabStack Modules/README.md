@@ -45,7 +45,7 @@ This module assembly mounts a [Radxa X4](https://radxa.com/products/x/x4) mini-P
  - The X4 and its included heatsink/blower fan (but not the leg frame that comes attached)
  - Four M2.5 x 25mm socket-headed cap screws (SCHS)
  - One 3D printed body (top row of table below) 
- - One 3D printed spacer (see table below)
+ - Four 3D printed spacers (see table below)
  - (Optional) Power-over-Ethernet hat
 
 The module is assembled as a stack, listed from bottom to top here: printed body, PoE hat (if present), printed spacer, X4, heatsink/blower fan. The printed spacer should be used on the screw that is farthest from the rack face, closest to the L-shaped shelf of the printed body. Screw through the stack and into the heatsink's tapped holes.
@@ -53,6 +53,6 @@ The module is assembled as a stack, listed from bottom to top here: printed body
 | **File**                               | **Description**                                          |
 | :------------------------------------- | :------------------------------------------------------- |
 | `Module 1x Radxa X4 with Heatsink.stl` | Main body. Includes a hexagonal cutout for PoE hat's fan |
-| `Radxa X4 NO PoE HAT Spacer.stl`       | Spacer to use when NOT using PoE hat                     |
-| `Radxa X4 WITH PoE HAT Spacer x4.stl`  | Spacer to use when PoE hat is installed                  |
+| `Radxa X4 NO PoE HAT Spacer.stl`       | Spacers to use when NOT using PoE hat                     |
+| `Radxa X4 WITH PoE HAT Spacer x4.stl`  | Spacers to use when PoE hat is installed                  |
 
